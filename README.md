@@ -1,2 +1,2 @@
-# gitfundamentals (Dev branch)
+# gitfundamentals
 Git fiundamentals
